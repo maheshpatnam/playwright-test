@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Apr 17 18:25:07 IST 2023","Mon Apr 17 18:25:15 IST 2023","7585","chromium","frames2.spec.ts","","","","has title2",""
+"broken","Mon Apr 17 18:25:07 IST 2023","Mon Apr 17 18:25:39 IST 2023","31699","chromium","inputs.spec.ts","","","","clear",""
+"passed","Mon Apr 17 18:25:07 IST 2023","Mon Apr 17 18:25:29 IST 2023","21896","chromium","pages.spec.ts","","","","Multi page",""
+"passed","Mon Apr 17 18:25:15 IST 2023","Mon Apr 17 18:25:18 IST 2023","3609","chromium","select.spec.ts","","","","selected value",""
+"passed","Mon Apr 17 18:25:07 IST 2023","Mon Apr 17 18:25:15 IST 2023","8213","chromium","drag.spec.ts","drag and drop...","","","drag and drop1",""
+"passed","Mon Apr 17 18:25:15 IST 2023","Mon Apr 17 18:25:26 IST 2023","11029","chromium","upload.spec.ts","","","","file upload",""

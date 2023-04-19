@@ -1,0 +1,22 @@
+{
+  "name": "play_learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "keywords": [],
+  "author": "QA box <mahesh.patnamn123@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^29.5.0",
+    "playwright": "^1.32.3",
+    "ts-jest": "^29.1.0",
+    "typescipt": "^1.0.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.32.3",
+    "allure-playwright": "^2.1.0"
+  }
+}
